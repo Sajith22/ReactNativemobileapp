@@ -1,0 +1,12 @@
+import{StyleSheet, Text,View} from 'react-native'
+
+const home =()=>{
+    return (
+        <View>
+            <Text>home</Text>
+        </View>
+    )
+}
+
+export default home
+const style = StyleSheet.create({})
